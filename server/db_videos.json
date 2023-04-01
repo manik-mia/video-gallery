@@ -1,0 +1,93 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Laravel Roles and Permissions: All CORE Things You Need To Know",
+      "description": "I often get asked about roles, permissions, gates, policies in Laravel, so I decided to shoot a separate video about the core concepts.",
+      "author": "Laravel Daily",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "3.1k",
+      "link": "https://www.youtube.com/embed/kZOgH3-0Bko",
+      "thumbnail": "https://i.ytimg.com/an_webp/kZOgH3-0Bko/mqdefault_6s.webp?du=3000&sqp=CNDKoaEG&rs=AOn4CLDSkcOF5CjjihanlinaaejjfpqIvw"
+    },
+    {
+      "id": 2,
+      "title": "Junior Code Review: Laravel Routes, Middleware, Validation and more",
+      "description": "As a part of my new Laravel mentorship program in my home country Lithuania, I started doing code reviews of my student developers. Here's a 20-minute example that I decided to publish on Youtube - should be useful to you guys, too.",
+      "author": "Laravel Daily",
+      "date": "April 25, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/sukS7QOBpK0",
+      "thumbnail": "https://i.ytimg.com/an_webp/sukS7QOBpK0/mqdefault_6s.webp?du=3000&sqp=CPfPoaEG&rs=AOn4CLAcTMo2XE9aHP96MWK26wIPhe8Cjw"
+    },
+    {
+      "id": 3,
+      "title": "#26 React Styled Components Tutorial - React Styling - CSS in JS - React Tutorial Bangla Series",
+      "description": "React Styled Components Tutorial - React Styling - CSS in JS - React Tutorial Bangla Series In this React Bangla Tutorial, I have explained about Styled Components in React and thereby learn how to inject CSS in JS. You will understand how we can style React components with styled components and achieve css modularity and completely separate logic from styles.",
+      "author": "Learn with Sumit",
+      "date": "March 11, 2022",
+      "duration": "10:12",
+      "views": "2.2k",
+      "link": "https://www.youtube.com/embed/RqwnR2osQqc",
+      "thumbnail": "https://i.ytimg.com/an_webp/RqwnR2osQqc/mqdefault_6s.webp?du=3000&sqp=CLTvoaEG&rs=AOn4CLDUQW3iBGs7TRVp7xKJtXigkAZGag"
+    },
+    {
+      "id": 4,
+      "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
+      "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।",
+      "author": "Learn with Sumit",
+      "date": "Jan 06, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/6O4s7v28nlw",
+      "thumbnail": "https://i.ytimg.com/an_webp/6O4s7v28nlw/mqdefault_6s.webp?du=3000&sqp=CIzdoaEG&rs=AOn4CLDK_99MuaccyBp1XQBWi7pSGg4Vsg"
+    },
+    
+    {
+      "id": 5,
+      "title": "১০০% বিগিনার ফ্রেন্ডলি কোর্স | JavaScript for Absolute Beginner | Stack Learner",
+      "description": "১০০% বিগিনার ফ্রেন্ডলি কোর্স | JavaScript for Absolute Beginner | Stack Learner এই কোর্সটি ওয়েব বুস্টটের সেকেন্ড মাইলস্টোনের জন্য রেকর্ড করা হয়েছিল। কোর্সটি রেকর্ড করা হয়েছে প্রায় ১ বছর পূর্বে। কিন্তু কোর্সের কন্টেন্ট আগামী এক যুগও জাভাস্ক্রিপ্ট শেখাতে সক্ষম। এই কোর্সের সাথে DOM 100 Project এর ভিডিও গুলো মার্জ করার কথা ছিল। তবে ইউটিউবে মার্জ করা ১৫ ঘন্টার ভিডিও আপলোড করার পরে কোনো ভাবেই সে প্রসেস করতে পারি নি। তাই শুধুমাত্র জাভাস্ক্রিপ্টের ভিডিওটাই আপলোড করা হলো। যারা একদম বিগিনার, কেবল প্রোগ্রামিং শুরু করছেন এবং জাভাস্ক্রিপ্ট দিয়ে প্রোগ্রামিং শুরু করছেন তাদের জন্য এই কোর্সটা একটা বেস্ট কোর্স হতে পারে। এই কোর্সে কোনো অ্যাডভান্সড টপিক নিয়ে আলোচনা করা হয় নি। কোর্সটা কমপ্লিট করার পরে অ্যাডভান্সড বিষয়ের জন্য আপনারা JavaScript All You Need to Know Course টি দেখতে পারেন।",
+      "author": "Stack Learner",
+      "date": "Nov 08, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/Ky1_8cdIQBw",
+      "thumbnail": "https://i.ytimg.com/an_webp/Ky1_8cdIQBw/mqdefault_6s.webp?du=3000&sqp=CMTroaEG&rs=AOn4CLCfuhu-uTHLAOqJbXNazZxN3UZerw"
+    },
+    {
+      "id": 6,
+      "title": "1.1 Introduction to PHP | PHP The !DYING Language",
+      "description": "PHP The !Dying Language একটি Complete PHP শেখার প্লেলিস্ট যেখানে একদম PHP Beginning লেভেল থেকে PHP Advanced Topic পর্যন্ত Core PHP Language Feature বাংলা ভাষায় আলোচনা করা হবে। এই কোর্সের উদ্দেশ্য PHP Development না। এই কোর্সের উদ্দেশ্য PHP as a Programming Language হিসেবে উপস্থাপন করা। ",
+      "author": "JS Bangladesh",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/Fre99th2ao4",
+      "thumbnail": "https://i.ytimg.com/vi/Fre99th2ao4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBTpk-MmRyk71X00p5-G_n_5IrgWA"
+    },
+    {
+      "id": 7,
+      "title": "Flutter Core Features | Flutter Tutorial Bangla | Part 01",
+      "description": "Flutter is Google’s Mobile SDK to build native iOS and Android apps from a single codebase. When building applications with Flutter everything towards Widgets – the blocks with which the flutter apps are built. The User Interface of the app is composed of many simple widgets, each of them handling one particular job. That is the reason why Flutter developers tend to think of their flutter app as a tree of widgets.",
+      "author": "Rabbil Hasan",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/PYC0PFCyj8Y",
+      "thumbnail": "https://i.ytimg.com/vi/PYC0PFCyj8Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDpPYoQ12Srgq3xFyfUreI62UGA5A"
+    },
+    {
+      "id": 7,
+      "title": "পিএইচপি ৮ ফিচার - কনস্ট্রাকটর প্রোপার্টি প্রোমোশন (PHP8 Feature - Constructor Property Promotion)",
+      "description": "পিএইচপি ৮ এর নতুন ফিচার কনস্ট্রাকটর প্রোপার্টি প্রোমোশন নিয়ে আলোচনা আজকের এই এপিসোডে :)",
+      "author": "Hasin Hyder",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/rWYbzX6Vkbo",
+      "thumbnail": "https://i.ytimg.com/vi/rWYbzX6Vkbo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBSsJNYHrUV1uaFqwNkBmRfk4UqEQ"
+    }
+  ]
+}
