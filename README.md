@@ -18,6 +18,7 @@ You can find the raw HTML template of the RTK Query - video gallery application 
 ## ![serverIcon][servericon-shield] Get SERVER Template
 
 You can find the raw SERVER template of the RTK Query - video gallery application from the "server" folder.
+#Goto Server folder and run command npm start
 
 <!-- HOW TO RUN -->
 
